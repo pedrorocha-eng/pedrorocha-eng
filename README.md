@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/pedrada2007?style=flat&logo=github&color=3B82F6" alt="Seguidores" />
+  <img src="https://img.shields.io/github/followers/pedrorocha-eng?style=flat&logo=github&color=3B82F6" alt="Seguidores" />
 </p>
 
 ---
@@ -40,12 +40,12 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrada2007&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrada2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top linguagens" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedrorocha-eng&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorocha-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Top linguagens" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrada2007&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=pedrorocha-eng&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
@@ -54,10 +54,9 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [**Esporte Sem Limites**](https://github.com/pedrada2007/PROJETO-FRONT-END-INCLUS-O-NOS-ESPORTES) | Site front-end sobre esporte adaptado, com foco em inclusão, acessibilidade e sustentabilidade. Apresenta modalidades como paratletismo, goalball, boccia e basquete em cadeira de rodas | HTML, CSS |
-| [**Jogo Pedro & Paulo**](https://github.com/pedrada2007/Jogo-pedro-paulo) | Jogo web feito para rodar no navegador, com suporte offline (PWA) | HTML, CSS, JavaScript |
-| [**Paulo Freire**](https://github.com/pedrada2007/Pauloo-freire) | Projeto web em JavaScript sobre Paulo Freire | JavaScript |
-
+| [**Esporte Sem Limites**](https://github.com/pedrorocha-eng/PROJETO-FRONT-END-INCLUS-O-NOS-ESPORTES) | Site front-end sobre esporte adaptado, com foco em inclusão, acessibilidade e sustentabilidade. Apresenta modalidades como paratletismo, goalball, boccia e basquete em cadeira de rodas | HTML, CSS |
+| [**Jogo Pedro & Paulo**](https://github.com/pedrorocha-eng/Jogo-pedro-paulo) | Jogo web feito para rodar no navegador, com suporte offline (PWA) | HTML, CSS, JavaScript |
+| [**Paulo Freire**](https://github.com/pedrorocha-eng/Pauloo-freire) | Projeto web em JavaScript sobre Paulo Freire | JavaScript |
 
 ---
 
@@ -80,10 +79,9 @@
   </a>
 </p>
 
-
 ---
 
 <p align="center">
-  <i>“Transformando estudo em projetos e projetos em experiência.”</i><br/>
+  <i>"Transformando estudo em projetos e projetos em experiência."</i><br/>
   ⭐ Se curtiu algum projeto, deixa uma estrela!
 </p>
