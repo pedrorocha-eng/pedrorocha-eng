@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro 👋</h1>
+<h1 align="center">Olá, eu sou o Pedro</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Estudante+de+Engenharia+de+Software;Sempre+aprendendo+e+construindo" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 - 🎓 Cursando **Engenharia de Software** (2º semestre)
 - 🛠️ Formação técnica pela **ETEC** com base em HTML, CSS, JavaScript e noções de back-end
@@ -68,7 +68,7 @@
 
 ---
 
-## 🤝 Vamos nos conectar
+##  Vamos nos conectar
 
 <p>
   <a href="https://www.linkedin.com/in/pedro-rocha-b1a269354" target="_blank">
@@ -83,5 +83,5 @@
 
 <p align="center">
   <i>"Transformando estudo em projetos e projetos em experiência."</i><br/>
-  ⭐ Se curtiu algum projeto, deixa uma estrela!
+   Se curtiu algum projeto, deixa uma estrela!
 </p>
